@@ -29,6 +29,6 @@ allprojects {
 	}
 }
 dependencies {
-	implementation 'com.github.Maxlego08:zAuctionHouseV3-API:3.1.3.0'
+	compileOnly 'com.github.Maxlego08:zAuctionHouseV3-API:3.1.3.0'
 }
 ```
